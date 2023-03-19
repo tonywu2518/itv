@@ -3,5 +3,11 @@
   urls:
     - "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
     - "https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"
+    - "https://raw.githubusercontent.com/jiangxi0221/iptv/main/fq.m3u"
+    - "https://raw.githubusercontent.com/ljhnchina/IPTV/main/IPTV.m3u"
+    - "https://raw.githubusercontent.com/xxyys/xxyys666.github.io/main/IPTV.M3U"
+    - "https://raw.githubusercontent.com/huanghuivip1/iptv/main/8M.m3u"
+    - "https://raw.githubusercontent.com/boly4189/tv1/master/zb.m3u"
     - "https://telegram-feiyangdigital.v1.mk/gudou.m3u"
-  keywords: "discovery,viu,tvb,hbo,eleven,香港,台湾,中天,东森,東森,纬来,緯來,靖天,八大,台视,臺視,寰宇,寰宇,博斯,龙华,龍華,影迷,爱尔达,愛爾達,中天,年代,民视,民視,翡翠,凤凰,鳳凰,星卫,星衛,臺灣" #
+    - "https://tvos.ml/keep/tw"
+  keywords: "tvbshd,tvbs hd,tvbs新闻,tvbs新聞,东森新闻,東森新聞,东森live,東森live,中天新闻,中天新聞" #
